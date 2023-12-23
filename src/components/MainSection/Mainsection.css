@@ -1,0 +1,61 @@
+.Mainsection-Main{
+    height: 80vh;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.Mainsection-Main-Wrapper{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+}
+
+.Mainsection-image img{
+    height: 300px;
+    margin-bottom: 40px;
+}
+
+.Mainsection-input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.Mainsection-input input{
+    border: 2px solid white;
+    background: transparent;
+    outline: none;
+    padding: 16px 32px;
+    font-size: 20px;
+    border-radius: 50px;
+    color: white;
+    width: 800px;
+}
+
+.Mainsection-input input::placeholder{
+    color: whitesmoke;
+}
+
+.Mainsection-input button{
+    padding: 16px 32px;
+    font-size: 20px;
+    border-radius: 20px;
+    border: 2px solid white;
+    cursor: pointer;
+    background-color: white;
+}
+
+#h1Yes{
+    color: greenyellow;
+    margin-top: 40px;
+    text-align: center;
+}
+
+#h1No{
+    color: #ff0000;
+    margin-top: 40px;
+    text-align: center;
+}
