@@ -59,3 +59,52 @@
     margin-top: 40px;
     text-align: center;
 }
+
+@media (400px <= width <= 1000px){
+
+    .Mainsection-Main{
+        margin-top: 40px;
+    }
+
+    .Mainsection-image img{
+        height: 300px;
+        margin-bottom: 40px;
+    }
+    
+    .Mainsection-input{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        gap: 20px;
+    }
+    
+    .Mainsection-input input{
+        border: 2px solid white;
+        background: transparent;
+        outline: none;
+        padding: 16px 32px;
+        font-size: 20px;
+        border-radius: 50px;
+        color: white;
+        width: 380px;
+    }
+
+    #h1Yes{
+        color: greenyellow;
+        margin-top: 40px;
+        text-align: center;
+        width: 300px;
+    }
+    
+    #h1No{
+        color: #ff0000;
+        margin-top: 40px;
+        text-align: center;
+        width: 300px;
+    }
+
+    .Mainsection-input input::placeholder{
+        font-size: 16px;
+    }
+}

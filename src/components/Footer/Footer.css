@@ -18,3 +18,12 @@
 .Footer-Brand span{
     color: orange;
 }
+
+@media (400px <= width <= 1000px){
+    .Footer-Main{
+        display: none;
+    }
+    .Footer-Socials img{
+        display: none;
+    }
+}
