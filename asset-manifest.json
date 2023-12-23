@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ShouldYou/static/css/main.2019703f.css",
-    "main.js": "/ShouldYou/static/js/main.f6e6498d.js",
+    "main.css": "/ShouldYou/static/css/main.13200d44.css",
+    "main.js": "/ShouldYou/static/js/main.8fc160a4.js",
     "static/js/787.67178810.chunk.js": "/ShouldYou/static/js/787.67178810.chunk.js",
     "static/media/Image.png": "/ShouldYou/static/media/Image.50cf6ac79dd7c460c914.png",
     "static/media/5282544_camera_instagram_social media_social network_instagram logo_icon.png": "/ShouldYou/static/media/5282544_camera_instagram_social media_social network_instagram logo_icon.c0dcfaab6e5c81c1afeb.png",
     "static/media/5282549_call_chat_mobile_whatsapp_whatsapp logo_icon.png": "/ShouldYou/static/media/5282549_call_chat_mobile_whatsapp_whatsapp logo_icon.81022af045a9d461f100.png",
     "static/media/5282551_tweet_twitter_twitter logo_icon.png": "/ShouldYou/static/media/5282551_tweet_twitter_twitter logo_icon.7e0bb0beadda14f535f2.png",
     "index.html": "/ShouldYou/index.html",
-    "main.2019703f.css.map": "/ShouldYou/static/css/main.2019703f.css.map",
-    "main.f6e6498d.js.map": "/ShouldYou/static/js/main.f6e6498d.js.map",
+    "main.13200d44.css.map": "/ShouldYou/static/css/main.13200d44.css.map",
+    "main.8fc160a4.js.map": "/ShouldYou/static/js/main.8fc160a4.js.map",
     "787.67178810.chunk.js.map": "/ShouldYou/static/js/787.67178810.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2019703f.css",
-    "static/js/main.f6e6498d.js"
+    "static/css/main.13200d44.css",
+    "static/js/main.8fc160a4.js"
   ]
 }
