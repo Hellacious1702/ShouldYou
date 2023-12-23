@@ -95,6 +95,7 @@
         margin-top: 40px;
         text-align: center;
         width: 300px;
+        margin-bottom: 40px;
     }
     
     #h1No{
@@ -102,6 +103,7 @@
         margin-top: 40px;
         text-align: center;
         width: 300px;
+        margin-bottom: 40px;
     }
 
     .Mainsection-input input::placeholder{
