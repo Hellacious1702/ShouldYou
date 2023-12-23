@@ -4,7 +4,7 @@ This is a Basic React Project Game. This Projects just Gives you random yes or n
 
 ## Known Bugs -
 
-1.Footer is not visible on Mobile View.
+1.Footer is not visible on Mobile View. <br />
 2.The user cannot submit response using "Enter" Key on Desktop and "Done" button on submit.
 
 

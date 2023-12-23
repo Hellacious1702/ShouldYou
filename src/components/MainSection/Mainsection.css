@@ -1,14 +1,12 @@
 .Mainsection-Main{
     height: 80vh;
     display: flex;
-    /* align-items: center; */
     justify-content: center;
 }
 
 .Mainsection-Main-Wrapper{
     display: flex;
     align-items: center;
-    /* justify-content: center; */
     flex-direction: column;
 }
 
@@ -46,6 +44,13 @@
     border: 2px solid white;
     cursor: pointer;
     background-color: white;
+    color: black;
+    scale: 1;
+    transition: 0.3s ease-in-out;
+}
+
+.Mainsection-input button:hover{
+    scale: 1.05;
 }
 
 #h1Yes{

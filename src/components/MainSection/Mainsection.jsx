@@ -25,7 +25,7 @@ const Mainsection = () => {
           <img src={MainImage}/>
         </div>
         <div className="Mainsection-input">
-          <input type="text" id='input' onChange={(event) => {setUserInput(event.target.value);setDisplay("notDisplayed")}} placeholder="What's on Your Mind? (eg. - get a car , buy a house , go to movie)" required/>
+          <input type="text" id='input' onChange={(event) => {{(event.target.value)==="" ? setUserInput(undefined): setUserInput(event.target.value)};setDisplay("notDisplayed")}} placeholder="What's on Your Mind? (eg. - get a car , buy a house , go to movie)" required/>
           <button onClick={() => {fetchRandom();setDisplay("Displayed");setResult(rand);console.log(userInput)}}>Should I Do It???</button>
         </div>
         <div className="Main-Result-Display">
